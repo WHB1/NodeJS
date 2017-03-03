@@ -10,8 +10,7 @@
 ## 这个是NodeJS的学习DEMO仓库，里面主要包含以下内容
 
   - 关于 << NodeJS实战 >> 项目的DEMO
-  
-  
+ 
   - 其他比较好的学习网址
   
       https://git.oschina.net/the_one_1609/test1.git
@@ -30,9 +29,12 @@
   
   http://cnodejs.org/
   
-  【经典】
+ 
+  【经典】
   http://cnodejs.org/getstart
   
   【经典】
   http://www.weex.help/getstart
+  
+  http://www.hubwiz.com/course/?type=nodes
   
