@@ -13,4 +13,4 @@
 
   - 其他比较好的学习网址
   
-    https://git.oschina.net/the_one_1609/test1.git
+      https://git.oschina.net/the_one_1609/test1.git
